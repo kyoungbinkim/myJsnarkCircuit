@@ -1,0 +1,3 @@
+[submodule "jsnark"]
+	path = jsnark
+	url = https://github.com/akosba/jsnark
