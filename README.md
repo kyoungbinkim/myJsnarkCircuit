@@ -1,5 +1,9 @@
 # myJsnarkCircuit
 
+	$git submodule init && git submodule update
+
+and then copy my Circuit to `JsnarkCircuitBuilder/src/examples/generator`    
+
 ### my circuit implement
 	$cd JsnarkCircuitBuilder/src/examples/generator
 - `Elgamal Enc Dec` 
